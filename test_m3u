@@ -1,0 +1,2169 @@
+#EXTM3U
+#EXTINF:0,#EXTM3U
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",ABC
+#EXTINF:0,https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+#EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
+#EXTINF:0,http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",AXS TV
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",Bloomberg TV
+#EXTINF:0,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS News
+#EXTINF:0,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemusica
+#EXTINF:0,http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC
+#EXTINF:0,http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky News America
+#EXTINF:0,http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="Channels",The Weather Channel
+#EXTINF:0,http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0 tvg-id="Rai4.it" group-title="Channels",Rai 4
+#EXTINF:0,http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",D DW
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",Television del Este
+#EXTINF:0,http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="Paramount.ar" group-title="Channels",Paramount
+#EXTINF:0,http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TravelHD
+#EXTINF:0,http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
+#EXTINF:0,http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",AXS TV
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",Bloomberg TV
+#EXTINF:0,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS News
+#EXTINF:0,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemusica
+#EXTINF:0,http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC
+#EXTINF:0,http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pawleys Island
+#EXTINF:0,http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Melody Channel
+#EXTINF:0,http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 tvg-id="VH1.ar" group-title="Channels",VH1
+#EXTINF:0,http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24H
+#EXTINF:0,http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2O TV | SD
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="FoxPremiumCinema.ar" group-title="Channels",Fox Premium Cinema
+#EXTINF:0,http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Channels",Fox Premium Movies
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR TRAVEL HD
+#EXTINF:0,http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO DEPORTES ESPANA
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
+#EXTINF:0 tvg-id="HBO2.ar" group-title="Channels",HBO 2
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kool TV
+#EXTINF:0,http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Choice
+#EXTINF:0,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL M
+#EXTINF:0,http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="Channels",ESPN 2
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="Channels",Fox Sports Racing
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB Network
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Live
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red Bull TV
+#EXTINF:0,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0 tvg-id="SkySportArena.it" group-title="Channels",SPORT 2 HD
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDF DEPORTES EN VIVO
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:0 tvg-id="Telemax.ar" group-title="Channels",Telemax
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Montecarlo
+#EXTINF:0,http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV COSMOS PERU
+#EXTINF:0,http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEPORTES: Sports 1 HD
+#EXTINF:0,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Country Network
+#EXTINF:0,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ROMANA TV
+#EXTINF:0,http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEVISION 19
+#EXTINF:0,http://cinevision01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Acento TV
+#EXTINF:0,http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MARIA VICION RELIGIOSOS
+#EXTINF:0,https://5a7dd6e2ce9bc.streamlock.net:8443/l/_jcn_/amlst:Mariavision/chunklist_w1283222492_b1428000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Linieros TV 36
+#EXTINF:0,http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Microvision 10
+#EXTINF:0,http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Orbit TV
+#EXTINF:0,http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yuna Vision 10
+#EXTINF:0,http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA VOZ DE MARIA
+#EXTINF:0,http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w477912263.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele Antillas 2
+#EXTINF:0,http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w866945099.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BONAO TV
+#EXTINF:0,http://ss1.domint.net:2226/btv_str/bonao/chunklist_w1629112127.m3u8
+#EXTINF:0 tvg-id="TeleCentro.us" group-title="Channels",Telecentro 13
+#EXTINF:0,http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telesistema 11 (New!)
+#EXTINF:0,http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER TV 55
+#EXTINF:0,http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bellavision 8
+#EXTINF:0,http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal del Sol 65
+#EXTINF:0,http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:BOING
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO:Cartoon Network
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor
+#EXTINF:0,http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleValencia
+#EXTINF:0,http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vega Baja TV
+#EXTINF:0,http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",Canal Extremadura
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",Canal Extremadura
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="Channels",3/24
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Levante TV
+#EXTINF:0,http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 (Opt-1)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="FDF.sp" group-title="Channels",FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:La Xarxa
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:TV3 (Opt-2)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:0 tvg-id="retro" group-title="Channels",Retro Tv
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2o Tv
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-id="Space.ar" group-title="Channels",SPACE
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0 tvg-id="NatgeoWild.ar" group-title="Channels",NATGEO WILD
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24H
+#EXTINF:0,http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FDF | HD
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:BOING
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super 3
+#EXTINF:0,http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Deutsche Welle Latino | SD
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPAÑA:TeleSafor | HD
+#EXTINF:0,http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7TV Murcia
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",Canal Parlamento
+#EXTINF:0,http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 Cataluña
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALCARRIA TV
+#EXTINF:0,http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lasuper TV
+#EXTINF:0,http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2O TV | SD
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top | HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio 105 Network | HD
+#EXTINF:0,http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Portal FoxMix | HD
+#EXTINF:0,http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO MUSIC HD
+#EXTINF:0,http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPAÑA DIVINITY
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVCE
+#EXTINF:0,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor
+#EXTINF:0,http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleValencia
+#EXTINF:0,http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 (Opt-1)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 (Opt-2)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vega Baja TV
+#EXTINF:0,http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FDF | HD
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Divinity | HD
+#EXTINF:0,http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Xarxa | SD
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 | SD
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extremadura | SD
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lebrija TV | SD
+#EXTINF:0,http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 Cataluña | SD
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor | HD
+#EXTINF:0,http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7TV | SD
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Punt | SD
+#EXTINF:0,https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Levante TV | SD
+#EXTINF:0,http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="Channels",3/24
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Channels",Boing
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",Canal Parlamento
+#EXTINF:0,http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",Divinity
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ETBSat.es" group-title="Channels",ETB Sat
+#EXTINF:0,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:0 tvg-id="CGTN.es" group-title="Channels",CGTN Español
+#EXTINF:0,http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7 Murcia
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 Tenerife
+#EXTINF:0,https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lebrija TV
+#EXTINF:0,http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVCE
+#EXTINF:0,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 Tenerife
+#EXTINF:0,https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lancelot TV
+#EXTINF:0,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lebrija TV
+#EXTINF:0,http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVCE
+#EXTINF:0,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor
+#EXTINF:0,http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleValencia
+#EXTINF:0,http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vega Baja TV
+#EXTINF:0,http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",Canal Extremadura
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",Canal Extremadura
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="Channels",3/24
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Levante TV
+#EXTINF:0,http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 (Opt-1)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="FDF.sp" group-title="Channels",FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:La Xarxa
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:TV3 (Opt-2)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:0 tvg-id="retro" group-title="Channels",Retro Tv
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2o Tv
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:La Xarxa
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:TV3 (Opt-2)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:0 tvg-id="retro" group-title="Channels",Retro Tv
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2o Tv
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-id="Space.ar" group-title="Channels",SPACE
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0 tvg-id="NatgeoWild.ar" group-title="Channels",NATGEO WILD
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BANDA MAX
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICK
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK_JR
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24H
+#EXTINF:0,http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FDF | HD
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:BOING
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super 3
+#EXTINF:0,http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Portal FoxMix | HD
+#EXTINF:0,http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO MUSIC HD
+#EXTINF:0,http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7TV Murcia
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",Canal Parlamento
+#EXTINF:0,http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 Cataluña
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALCARRIA TV
+#EXTINF:0,http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lasuper TV
+#EXTINF:0,http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2O TV | SD
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top | HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio 105 Network | HD
+#EXTINF:0,http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Portal FoxMix | HD
+#EXTINF:0,http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO MUSIC HD
+#EXTINF:0,http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPAÑA DIVINITY
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVCE
+#EXTINF:0,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Divinity | HD
+#EXTINF:0,http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 | SD
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lebrija TV | SD
+#EXTINF:0,http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7TV | SD
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Punt | SD
+#EXTINF:0,https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",Canal Parlamento
+#EXTINF:0,http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:0 tvg-id="CGTN.es" group-title="Channels",CGTN Español
+#EXTINF:0,http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 Tenerife
+#EXTINF:0,https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",Canal Extremadura
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Xarxa
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Levante TV
+#EXTINF:0,http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 9 Salta[SD]
+#EXTINF:0,http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor
+#EXTINF:0,http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleValencia
+#EXTINF:0,http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vega Baja TV
+#EXTINF:0,http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",Canal Extremadura
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="Channels",3/24
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 (Opt-1)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="FDF.sp" group-title="Channels",FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:TV3 (Opt-2)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:0 tvg-id="retro" group-title="Channels",Retro Tv
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2o Tv
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-id="Space.ar" group-title="Channels",SPACE
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0 tvg-id="NatgeoWild.ar" group-title="Channels",NATGEO WILD
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24H
+#EXTINF:0,http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FDF | HD
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super 3
+#EXTINF:0,http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Deutsche Welle Latino | SD
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPAÑA:TeleSafor | HD
+#EXTINF:0,http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPAIN:BOING
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ETBSat.es" group-title="Channels",ETB Sat
+#EXTINF:0,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",Azteca 7
+#EXTINF:0,http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios CDMX
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Torreon
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Costa Rica
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca 1
+#EXTINF:0,http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBTV
+#EXTINF:0,http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multivision Argentina
+#EXTINF:0,http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",Canal Once
+#EXTINF:0,http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Grupo Formula
+#EXTINF:0,http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 13 Puerto Rico
+#EXTINF:0,http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Channels",Net TV
+#EXTINF:0,http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",Canal 26
+#EXTINF:0,http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",Canal Once
+#EXTINF:0,http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UESTV
+#EXTINF:0,http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV 2
+#EXTINF:0,http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cachipum TV
+#EXTINF:0,http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Channels",Boing
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latinos UP
+#EXTINF:0,https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TMTV
+#EXTINF:0,http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Choice Mc Play
+#EXTINF:0,http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",California Music Channel
+#EXTINF:0,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Melody Channel
+#EXTINF:0,http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios CDMX
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Laguna
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Costa Rica
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",Azteca 7
+#EXTINF:0,http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca 1
+#EXTINF:0,http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBTV
+#EXTINF:0,http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multivision Argentina
+#EXTINF:0,http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",Canal Once
+#EXTINF:0,http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Grupo Formula
+#EXTINF:0,http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 13 Puerto Rico
+#EXTINF:0,http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Channels",Net TV
+#EXTINF:0,http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Next TV
+#EXTINF:0,http://198.1.117.5:1935/live/livestream/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",Canal 26
+#EXTINF:0,http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",Canal Once
+#EXTINF:0,http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UESTV
+#EXTINF:0,http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV 2
+#EXTINF:0,http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="Channels",Wow TV
+#EXTINF:0,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cachipum TV
+#EXTINF:0,http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Channels",Boing
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latinos UP
+#EXTINF:0,https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TMTV
+#EXTINF:0,http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Choice Mc Play
+#EXTINF:0,http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",California Music Channel
+#EXTINF:0,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Melody Channel
+#EXTINF:0,http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW NACIONALES
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW NACIONALES
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",Canal 26
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w652596162_b2628000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:America HD
+#EXTINF:0,https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",ARG CANAL 26 HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:13 Max
+#EXTINF:0,http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:Net TV
+#EXTINF:0,http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Garaje TV | SD
+#EXTINF:0,http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",ARG CANAL 26 HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",CANAL 26
+#EXTINF:0,http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG: FUTURO 88 9
+#EXTINF:0,http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG: LITUS TV SANTA FE
+#EXTINF:0,http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG: MULTIMEDIOS
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG: MULTIMEDIOS (1+)
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG: PINGUINO TV OPT 1
+#EXTINF:0,http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG: PINGUINO TV OPT 2
+#EXTINF:0,http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: ACENTO TV
+#EXTINF:0,http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: CANAL 10 CANCUN
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: CANAL CAPITAL HD
+#EXTINF:0,https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: CANAL DEL SOL 65
+#EXTINF:0,http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: CNC3
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: COLOSAL TV
+#EXTINF:0,http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: COMUNION TV
+#EXTINF:0,http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: DIGITAL VISION 63
+#EXTINF:0,http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: EDE TV
+#EXTINF:0,http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: EL LIDER
+#EXTINF:0,https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: ESPERANZA TV USA
+#EXTINF:0,http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: EXTREMA TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: MANGO TV RD
+#EXTINF:0,http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: MICROVISION 10
+#EXTINF:0,http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: MICROVISION CANAL 10
+#EXTINF:0,http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: MONTE MARIA CA
+#EXTINF:0,http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: MULTIMEDIOS MONTERREY OPT 1
+#EXTINF:0,http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: PORTAL FOXMIX
+#EXTINF:0,http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: PRESUMIENDO
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: RED ADVENIR
+#EXTINF:0,http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: RTQ QUERETARO
+#EXTINF:0,http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: RTV ARNHEM
+#EXTINF:0,http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TELECEIBA CANAL 7
+#EXTINF:0,http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TELECENTRO 13
+#EXTINF:0,http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TELEKARIBE
+#EXTINF:0,http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TELEMAR CAMPECHE
+#EXTINF:0,http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TELESUR
+#EXTINF:0,http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TV COSMOS
+#EXTINF:0,http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TV CRET
+#EXTINF:0,http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: ULTRA TV PUEBLA
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: UP TV
+#EXTINF:0,http://5955f4ce3f2b7.streamlock.net:1935/8080/8080/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: VISION NOTICIAS
+#EXTINF:0,http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: WEEFF TV
+#EXTINF:0,http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="Channels",Wow TV
+#EXTINF:0,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lancelot TV PELI
+#EXTINF:0,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Monterrico TV
+#EXTINF:0,http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTC TV Cusco
+#EXTINF:0,http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca 1
+#EXTINF:0,http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
+#EXTINF:0,http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios CDMX
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Torreon
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Costa Rica
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multivision Argentina
+#EXTINF:0,http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Channels",AlJazeera ENGLISH
+#EXTINF:0,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Grupo Formula
+#EXTINF:0,http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Noruega
+#EXTINF:0,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Channels",Net TV
+#EXTINF:0,http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",Canal 26
+#EXTINF:0,http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UESTV
+#EXTINF:0,http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="Antena3.ar" group-title="Channels",ANTENA 3
+#EXTINF:0,https://pull2b-i.akamaized.net/antena3/bitrate_4.m3u8
+#EXTINF:0 tvg-id="Antena3.sp" group-title="Channels",Antena3
+#EXTINF:0,https://pull2b-i.akamaized.net/antena3/master.m3u8
+#EXTINF:0 tvg-id="Paramount.ar" group-title="Channels",Paramount
+#EXTINF:0,http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",luna tv
+#EXTINF:0,http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="Channels",Wow tv
+#EXTINF:0,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",orbit tv
+#EXTINF:0,http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELE RED RETRO
+#EXTINF:0,http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super 3
+#EXTINF:0,http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HB TV
+#EXTINF:0,http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Milenio | SD
+#EXTINF:0,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Capital 21 Mexico City
+#EXTINF:0,http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+#EXTINF:0,http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIVISION
+#EXTINF:0,http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight time (ufc)
+#EXTINF:0,http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chicos IPE
+#EXTINF:0,http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.ar" group-title="Channels",CARTOON NETWORK
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAXPRIME
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Channels",FOXCINEMA
+#EXTINF:0,http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 tvg-id="FoxMovies.ar" group-title="Channels",FOX MOVIES
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",fox premium comedy (eng)
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FUEGO TV
+#EXTINF:0,http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:0 tvg-id="LifeTV.es" group-title="Channels",LIFE TV
+#EXTINF:0,http://184.173.181.2:1935/8070/8070/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PELIS
+#EXTINF:0,http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FARO VISION
+#EXTINF:0,http://184.173.181.2:1935/8060/8060/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",canal 12 nicaragua
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+#EXTINF:0 tvg-id="Enlace.us" group-title="Channels",Enlace
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-21/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JBN ixtla
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-39/playlist.m3u8
+#EXTINF:0 tvg-id="Canal2.mx" group-title="Channels",Canal 2
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",canal 4
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",canal 6
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+#EXTINF:0 tvg-id="Canal9.ar" group-title="Channels",canal 9
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",canal 10
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",canal 11
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",canal 8
+#EXTINF:0,http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL BHTV
+#EXTINF:0,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MICRO VISION
+#EXTINF:0,http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",Canal Once
+#EXTINF:0,http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Uno
+#EXTINF:0,http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CAPITAL 21 CDMX
+#EXTINF:0,http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ciudad Tv 21.2
+#EXTINF:0,http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCG TV2
+#EXTINF:0,http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios CDMX
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Laguna
+#EXTINF:0,http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 15 Zacatecas
+#EXTINF:0,http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Chetumal
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemar Campeche
+#EXTINF:0,http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sipse TV Cancun
+#EXTINF:0,https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:0 tvg-id="retro" group-title="Channels",RETRO TV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",m2o TV
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mango Tv
+#EXTINF:0,http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Montecarlo
+#EXTINF:0,http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio 105 Network
+#EXTINF:0,http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0 tvg-id="MTVDance.eu" group-title="Channels",MTV Dance
+#EXTINF:0,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live
+#EXTINF:0,http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Country Network
+#EXTINF:0,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Channels",Bandamax
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="Channels",RADIO 105 TV
+#EXTINF:0,http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:0 tvg-id="TheVoice.fi" group-title="Channels",The Voice
+#EXTINF:0,http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Classic Arts Showcase
+#EXTINF:0,https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTAL FOXMIX
+#EXTINF:0,http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="Telemax.ar" group-title="Channels",Telemax
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Channels",U TV
+#EXTINF:0,http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC Play
+#EXTINF:0,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",espacio
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0 tvg-id="FoxCinema.ar" group-title="Channels",Fox Cinema
+#EXTINF:0,http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 tvg-id="FoxMovies.ar" group-title="Channels",Fox Movies
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-id="FoxComedy.ar" group-title="Channels",Fox Comedy
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",Max Prime
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee mundo
+#EXTINF:0,https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="BFMSport.fr" group-title="Channels",BFM Sport
+#EXTINF:0,http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pinguino TV
+#EXTINF:0,http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bayern Munchen TV
+#EXTINF:0,http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="Channels",ESPN 2
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="Channels",Fox Sports Racing
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Flow Sports
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe Deportes
+#EXTINF:0,http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Time
+#EXTINF:0,http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC NETWORK
+#EXTINF:0,http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Impact Wrestling
+#EXTINF:0,http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",GOLF CHANNEL
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB Network
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",Abu Dhabi Sports 2
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KTV Sport Kuwait
+#EXTINF:0,https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stadium Sports Network
+#EXTINF:0,https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTSMAX
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:0 tvg-id="Esport3.es" group-title="Channels",Esport3
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="SetantaIrelandSport.uk" group-title="Channels",Setanta Sports
+#EXTINF:0,http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="Channels",Setanta Sports +
+#EXTINF:0,http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:0 tvg-id="France24.ar" group-title="Channels",France 24
+#EXTINF:0,http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",Milenio TV
+#EXTINF:0,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Channels",TELEFORMULA
+#EXTINF:0,http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",Canal 26
+#EXTINF:0,http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hechos Tv
+#EXTINF:0,http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Channels",ABC NEWS
+#EXTINF:0,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",ABC
+#EXTINF:0,http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0 tvg-id="AlJazeera.ar" group-title="Channels",Al Jazeera
+#EXTINF:0,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="Channels",Bloomberg USA
+#EXTINF:0,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="Channels",Bloomberg Europe
+#EXTINF:0,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS NEWS
+#EXTINF:0,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",CBS
+#EXTINF:0,http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-id="France24.ar" group-title="Channels",France 24
+#EXTINF:0,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC
+#EXTINF:0,http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",Sky NEWS
+#EXTINF:0,http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",Sky NEWS
+#EXTINF:0,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0 tvg-id="VOA.cl" group-title="Channels",VoA
+#EXTINF:0,http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Syria News
+#EXTINF:0,http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Arabic Televison
+#EXTINF:0,http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Channels",TRT WORLD
+#EXTINF:0,http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",WGN Chicago
+#EXTINF:0,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NYC Times Square (47th & Broadway)
+#EXTINF:0,http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NYC Times Square
+#EXTINF:0,http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+#EXTINF:0 tvg-id="ETBSat.es" group-title="Channels",ETB Sat
+#EXTINF:0,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Xarxa
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lancelot TV
+#EXTINF:0,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Navarra TV*
+#EXTINF:0,http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor
+#EXTINF:0,http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 tvg-id="TV3.ie" group-title="Channels",TV3*
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: APARECIDA
+#EXTINF:0,http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MASTER TV HD
+#EXTINF:0,http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: ALCARRIA TV
+#EXTINF:0,http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mola TV
+#EXTINF:0,http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7 Murcia
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 tvg-id="BEMAD.es" group-title="Channels",Be Mad
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Channels",Boing
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",Divinity
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",Energy
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:0 tvg-id="FDF.sp" group-title="Channels",FDF
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Time (Opt-1)
+#EXTINF:0,http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid TV (Opt-1)
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid TV (Opt-2)
+#EXTINF:0,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid TV (English)
+#EXTINF:0,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVCE
+#EXTINF:0,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleValencia
+#EXTINF:0,http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="Channels",24 Horas
+#EXTINF:0,http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="Channels",3/24
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0 tvg-id="Apunt.es" group-title="Channels",A Punt
+#EXTINF:0,https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ibiza Global TV
+#EXTINF:0,http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lebrija TV
+#EXTINF:0,http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 (Opt-1)
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVG Xabarin
+#EXTINF:0,http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vega Baja TV
+#EXTINF:0,http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Channels",BANDAMAX
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(01)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXTREMA
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPPORT
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",REAL MADRID TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="TNT.ar" group-title="Channels",TNT
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="Channels",Wow TV
+#EXTINF:0,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antares TV | SD
+#EXTINF:0,http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ovacion | SD
+#EXTINF:0,http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Central TV | SD
+#EXTINF:0,http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Mix Radio TV | SD
+#EXTINF:0,http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 8
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Telecinco.sp" group-title="Channels",Telecinco
+#EXTINF:0,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lancelot TV PELI
+#EXTINF:0,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Chetumal | HD
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Monterrey | HD
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Laguna | HD
+#EXTINF:0,http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Milenio | SD
+#EXTINF:0,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra TV Puebla | HD
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra TV Aguacalientes | HD
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Once IPN  Int. | HD
+#EXTINF:0,http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 20 Zacatecas | SD
+#EXTINF:0,http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Capital 21 | SD
+#EXTINF:0,http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCG 2 | SD
+#EXTINF:0,http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FDF | HD
+#EXTINF:0,https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Divinity | HD
+#EXTINF:0,http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Xarxa | SD
+#EXTINF:0,http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid TV | SD
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 | SD
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extremadura | SD
+#EXTINF:0,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lancelot TV | SD
+#EXTINF:0,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ETBSAT | SD
+#EXTINF:0,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lebrija TV | SD
+#EXTINF:0,http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Levante TV | SD
+#EXTINF:0,http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 | SD
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America | SD
+#EXTINF:0,http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa | SD
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",324 Cataluña | SD
+#EXTINF:0,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 Tenerife | SD
+#EXTINF:0,https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canaria Sat Television | SD
+#EXTINF:0,http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleSafor | HD
+#EXTINF:0,http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",7TV | SD
+#EXTINF:0,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO | SD
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Senado | HD
+#EXTINF:0,http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVN Señal de Pruebas | HD
+#EXTINF:0,http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 | HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemax | HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top | HD
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Provincial | SD
+#EXTINF:0,http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Litus | HD
+#EXTINF:0,http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Garaje TV | SD
+#EXTINF:0,http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleceiba Canal 7 | SD
+#EXTINF:0,http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Azteca Honduras | SD
+#EXTINF:0,http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telered | SD
+#EXTINF:0,http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sur | SD
+#EXTINF:0,http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ticavision | SD
+#EXTINF:0,http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Madird tv
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Channels",ESPN
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",AD Sports 1 HD
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",AD Sports 2 HD
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports
+#EXTINF:0,http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",REAL MADRID TV HD
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium
+#EXTINF:0,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",REALMADRID TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",REDBULL TV
+#EXTINF:0,http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TDN SPORT
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Channels",Garage TV
+#EXTINF:0,http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0 tvg-id="AbuDhabi.net" group-title="Channels",Abu Dhabi Sports | SD
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports 2 | SD
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MORGAN 2017
+#EXTINF:0,https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=jB%2Fe9NhbBvIApvusiUW1dTsE0C1FJa4s85dUu7zpQdY%3D&docid=19139fa71f76c4627bc4a633d5f80bd46&rev=1
+#EXTINF:0 tvg-id="ext" group-title="Channels",OUIJA 2016
+#EXTINF:0,https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=aExoVm%2Fa%2BUnbEO5sd1VU%2FK9TzsSGD1O%2BV3EG7JhuLfY%3D&docid=1f46c87d90a534a34a3c7bf6e78bc8f90&rev=1
+#EXTINF:0 tvg-id="pixel" group-title="Channels",PIXEL
+#EXTINF:0,https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNA PAREJA DISPAREJA
+#EXTINF:0,https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=L1xcLeZaaC0RnNroupeOyrwLfKOcDoILl9pJ%2FnxSR%2FU%3D&docid=155d4e833091b46e2af22eec8652e629e&rev=1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa America
+#EXTINF:0,http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/chunklist_w592142059.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa America
+#EXTINF:0,http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa America
+#EXTINF:0,http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa America
+#EXTINF:0,http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.ar" group-title="Channels",Animal Planet
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",CBS
+#EXTINF:0,http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW Español
+#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",EUROSPORT2
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-id="FoxPremiumCinema.ar" group-title="Channels",Fox Premium Cinema
+#EXTINF:0,http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Channels",FOXCINEMA
+#EXTINF:0,http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 tvg-id="FoxMovies.ar" group-title="Channels",FOX MOVIES
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Premium Comedy (Eng)
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Channels",Fox Premium Movies
+#EXTINF:0,http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="Channels",Fox Sports Racing
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo2 Dual (Eng Esp)
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 (SAP)
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0 tvg-id="MTV.ar" group-title="Channels",MTV
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAXPRIME
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC
+#EXTINF:0,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0 tvg-id="Paramount.ar" group-title="Channels",Paramount
+#EXTINF:0,http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe Deportes
+#EXTINF:0,http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bolivia Deportes
+#EXTINF:0,http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="BetisTV.es" group-title="Channels",Betis Tv
+#EXTINF:0,https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Edge Sports
+#EXTINF:0,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="Channels",Galicia TV
+#EXTINF:0,http://events1-crtvg.flumotion.com:80//crtvg/events1/chunks.m3u8
+#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="Channels",Galicia TV
+#EXTINF:0,http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Olimpic Channel HD
+#EXTINF:0,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="Channels",Fox Sports Racing
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stadium Sports Network
+#EXTINF:0,https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports
+#EXTINF:0,http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB Network
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY News
+#EXTINF:0,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red Bull TV
+#EXTINF:0,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="BFMSport.fr" group-title="Channels",BFM Sport
+#EXTINF:0,http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports
+#EXTINF:0,http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports
+#EXTINF:0,http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports SD
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports SD*
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports HD
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",Abu Dhabi Sports 2 SD
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",Abu Dhabi Sports 2 SD*
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports 2 HD
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al Kass Sports
+#EXTINF:0,http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",Azteca 7
+#EXTINF:0,http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Uno
+#EXTINF:0,http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Cancun
+#EXTINF:0,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 15 Zacatecas
+#EXTINF:0,http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOROtv (Opt-1)
+#EXTINF:0,https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOROtv (Opt-2)
+#EXTINF:0,https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",Milenio TV
+#EXTINF:0,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Guadalajara
+#EXTINF:0,https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Laguna
+#EXTINF:0,https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Mexico City
+#EXTINF:0,https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+#EXTINF:0,http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Presumiendo Mexico
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTQ Queretaro
+#EXTINF:0,http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sipse TV Cancun
+#EXTINF:0,https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SQCS Chetumal
+#EXTINF:0,http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Channels",Teleformula
+#EXTINF:0,http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemar Campeche
+#EXTINF:0,http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra TV Puebla
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra TV Aguascalientes
+#EXTINF:0,https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",13 Max
+#EXTINF:0,http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",5TV Corrientes
+#EXTINF:0,http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aire de Santa Fe
+#EXTINF:0,http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 San Juan
+#EXTINF:0,http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Rio Negro
+#EXTINF:0,http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 17 Milenium Salta
+#EXTINF:0,https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 BA (Opt-1)
+#EXTINF:0,http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 BA (Opt-2)
+#EXTINF:0,http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Local Olavarria
+#EXTINF:0,http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Provincial San Miguel
+#EXTINF:0,http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ciudad TV Chaco
+#EXTINF:0,http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CN 24/7
+#EXTINF:0,http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Frecuencia Musical TV
+#EXTINF:0,http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Channels",Garage TV
+#EXTINF:0,http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Litus TV Santa Fe
+#EXTINF:0,http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Medios Rioja
+#EXTINF:0,http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Channels",Net TV
+#EXTINF:0,http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio del Aire 89.5 FM La Plata
+#EXTINF:0,http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio TV Neuquen
+#EXTINF:0,http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:0 tvg-id="Telemax.ar" group-title="Channels",Telemax
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Televisora Regional Unimar
+#EXTINF:0,https://59c5c86e10038.streamlock.net/95621330/95621330/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AM Canal
+#EXTINF:0,http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campo Abierto TV Huechuraba
+#EXTINF:0,http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 5 Puerto Montt
+#EXTINF:0,https://590c5dc5c3271.streamlock.net/luis251/luis251/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Contivision Constitucion
+#EXTINF:0,https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Desierto TV
+#EXTINF:0,http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Pinguino TV (Opt-1)
+#EXTINF:0,http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Pinguino TV (Opt-2)
+#EXTINF:0,http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Futuro 88.9
+#EXTINF:0,http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gracia TV
+#EXTINF:0,http://v3.tustreaming.cl/graciatv/live1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Holvoet TV
+#EXTINF:0,http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedia Cappissima TV
+#EXTINF:0,http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pandero Music CL
+#EXTINF:0,http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pandero Music Top
+#EXTINF:0,http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w1822395328_b1500000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pauta
+#EXTINF:0,http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pintana TV
+#EXTINF:0,http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Portal Foxmix
+#EXTINF:0,http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Quinta TV
+#EXTINF:0,https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio El Conquistador
+#EXTINF:0,http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio La Clave
+#EXTINF:0,http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Zero
+#EXTINF:0,http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Television Regional de Chile
+#EXTINF:0,https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Trailer TV Kids
+#EXTINF:0,http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Red
+#EXTINF:0,http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Senado (Opt-1)
+#EXTINF:0,http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Senado (Opt-2)
+#EXTINF:0,http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVO San Vicente
+#EXTINF:0,http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV San Clemente
+#EXTINF:0,http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VC Online Santiago
+#EXTINF:0,https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV Aconcagua (Opt-1)
+#EXTINF:0,http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV Aconcagua (Opt-2)
+#EXTINF:0,http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Super TV
+#EXTINF:0,http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo Mas
+#EXTINF:0,http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleenvigado
+#EXTINF:0,http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleislas
+#EXTINF:0,http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antares TV
+#EXTINF:0,http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BHtv (Opt-1)
+#EXTINF:0,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BHtv (Opt-2)
+#EXTINF:0,http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Central TV
+#EXTINF:0,http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Monterrico TV
+#EXTINF:0,http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ovacion
+#EXTINF:0,http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cosmos
+#EXTINF:0,http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVPeru Noticias
+#EXTINF:0,http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal M
+#EXTINF:0,http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios CR
+#EXTINF:0,https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio 88 Stereo
+#EXTINF:0,http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:0 tvg-id="Telesur.ar" group-title="Channels",Telesur
+#EXTINF:0,http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TicaVision
+#EXTINF:0,http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sur 14
+#EXTINF:0,http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Acento TV
+#EXTINF:0,http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bellavision 8
+#EXTINF:0,http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal del Sol 65
+#EXTINF:0,http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Carivision
+#EXTINF:0,http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digital Vision 63
+#EXTINF:0,http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fuego TV
+#EXTINF:0,http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GH Television
+#EXTINF:0,http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Linieros TV 36
+#EXTINF:0,http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mango TV
+#EXTINF:0,http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Microvision 10
+#EXTINF:0,http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Naranja TV
+#EXTINF:0,http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda TV 10
+#EXTINF:0,http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Orbit TV
+#EXTINF:0,http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ready TV
+#EXTINF:0,http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele Antillas 2
+#EXTINF:0,http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w866945099.m3u8
+#EXTINF:0 tvg-id="TeleCentro.us" group-title="Channels",Telecentro 13
+#EXTINF:0,http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telefuturo 23
+#EXTINF:0,http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekaribe
+#EXTINF:0,http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemilenio Canal 50
+#EXTINF:0,http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telenord Canal 8
+#EXTINF:0,http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telenord Canal 10
+#EXTINF:0,http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telenord Canal 12
+#EXTINF:0,http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleradio America 45
+#EXTINF:0,http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telesistema 11
+#EXTINF:0,http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telever Canal 12
+#EXTINF:0,http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Television del Este
+#EXTINF:0,http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+#EXTINF:0 tvg-id="Canal2.mx" group-title="Channels",Canal 2
+#EXTINF:0,http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVO Canal 23 (Opt-1)
+#EXTINF:0,http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVO Canal 23 (Opt-2)
+#EXTINF:0,https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campus TV
+#EXTINF:0,http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 5 El Lider
+#EXTINF:0,https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleceiba Canal 7
+#EXTINF:0,http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSi
+#EXTINF:0,https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:0 tvg-id="Telesur.ar" group-title="Channels",TeleSUR
+#EXTINF:0,https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vepaco TV
+#EXTINF:0,http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Catolica TV
+#EXTINF:0,http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVGE Int. (New!)
+#EXTINF:0,http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Frecuencia Musical Tv
+#EXTINF:0,http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Frecuencia Musical Tv
+#EXTINF:0,https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+#EXTINF:0,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Luna Tv
+#EXTINF:0,http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Orbit Tv
+#EXTINF:0,http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super 3
+#EXTINF:0,http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HB TV
+#EXTINF:0,http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8?ixtlaarreola.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tateti
+#EXTINF:0,http://unlimited1-cl.dps.live/tateti/tateti.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Channels",Boing
+#EXTINF:0,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cachupum! Televisión
+#EXTINF:0,http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="GongMax.fr" group-title="Channels",Gong Max
+#EXTINF:0,http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Banda Tv
+#EXTINF:0,https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Trailer Tv Kids
+#EXTINF:0,http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PortalFoxMix Tv HD
+#EXTINF:0,http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Mega Mundial HD
+#EXTINF:0,http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oxigeno Network Tv
+#EXTINF:0,https://vcp80.lorini.net/oxigenotv/oxigenotv/chunklist_w1474703473.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Música HD superior
+#EXTINF:0,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VC Online HD
+#EXTINF:0,https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pandero Music Chile
+#EXTINF:0,http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM POP
+#EXTINF:0,https://livelist01.yowi.tv/lista/e254a962539d318dca0a948fdb484e90eb649b4e/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM DANCE
+#EXTINF:0,https://livelist01.yowi.tv/lista/a636df582c762a380b1eb1673f79e50489365e28/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM BALADAS
+#EXTINF:0,https://livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM HIP-HOP
+#EXTINF:0,https://livelist01.yowi.tv/lista/385bdb9ae50740e41f3b370220c6b02e821f0131/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM LATIN
+#EXTINF:0,https://livelist01.yowi.tv/lista/beb3dc68b9581e926f166d498fa18fceac8eb346/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM ARABIC
+#EXTINF:0,https://livelist01.yowi.tv/lista/085621509a36c91822a2066f4f3fa8a5795b27fa/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL ANDALUCIA FLAMENCO
+#EXTINF:0,https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w483945155.m3u8
+#EXTINF:0 tvg-id="TraceMziki.fr" group-title="Channels",Trace Mziki
+#EXTINF:0,http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Miami Tv Estados Unidos
+#EXTINF:0,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Miami Tv México
+#EXTINF:0,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Miami Tv Colombia
+#EXTINF:0,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",estrella de Ocko
+#EXTINF:0,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hype Tv!
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
+#EXTINF:0 tvg-id="OckoExpres.cz" group-title="Channels",Ocko Expres
+#EXTINF:0,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zerouno tv
+#EXTINF:0,https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="MTV.ar" group-title="Channels",MTV
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mtv estados unidos
+#EXTINF:0,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-id="retro" group-title="Channels",Retro Tv
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroTV
+#EXTINF:0,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retroplus Tv
+#EXTINF:0,https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Italia Vision
+#EXTINF:0,http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pandero Music
+#EXTINF:0,http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2o Tv
+#EXTINF:0,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IR RT
+#EXTINF:0,http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHAU Tv
+#EXTINF:0,http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio 105 televisores
+#EXTINF:0,http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+#EXTINF:0,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",FS1
+#EXTINF:0,http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="Channels",RUTV
+#EXTINF:0,https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:0 tvg-id="DeejayTV.it" group-title="Channels",DEEJAY TV
+#EXTINF:0,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RN1 TV
+#EXTINF:0,http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO LINEA TV
+#EXTINF:0,https://dcunilive30-lh.akamaihd.net/i/dclive_1@653084/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMPAÑÍA TV
+#EXTINF:0,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Country Network
+#EXTINF:0,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Choice
+#EXTINF:0,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="mezzo" group-title="Channels",Mezzo
+#EXTINF:0,http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARTS Tv
+#EXTINF:0,https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 tvg-id="RockTV.it" group-title="Channels",Rock Tv
+#EXTINF:0,https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HQM ROCK
+#EXTINF:0,https://livelist01.yowi.tv/lista/baad6b53816641b85a08541261199f6613d111d4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ReformaTV
+#EXTINF:0,http://livestreamcdn.net:1935/ReformaTV/smil:ReformaTV.smil/chunklist_w1662381270_b1300000_slen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Celestial
+#EXTINF:0,http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1874831699.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEVE VIDA
+#EXTINF:0,http://205.164.56.130:1935/francescojavier522/francescojavier522/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",genesis tv.
+#EXTINF:0,http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aliento Vision.
+#EXTINF:0,http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aliento vision.
+#EXTINF:0,http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ONDAS DE AMOR TV
+#EXTINF:0,http://st2.worldkast.com/8008/8008/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IGLESIA TABERNACULO DE REUNION
+#EXTINF:0,http://va1.ministeriotv.com:1936/81/stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO FUEGO ABRAZADOR
+#EXTINF:0,http://ph1.ministeriotv.com:1936/100//stream/playlist.m3u8?ixtla
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV CRET SEÑAL DE BENDICION
+#EXTINF:0,http://radiocret.net:1935/live/tvcret.sdp/media_playlist.m3u8?wowzasessionid=2025070830
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBN ESPAÑOL
+#EXTINF:0,http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",mision vida
+#EXTINF:0,http://205.164.56.130:1935/jorge854/jorge854/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Esperanza Tv
+#EXTINF:0,http://ca1.ministeriotv.com:1935/1521/1521/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REEDIFICANDO LOS MUROS CAIDOS RADIO
+#EXTINF:0,http://ca1.ministeriotv.com:1935/262/262/chunklist_w1777282906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTN INT.
+#EXTINF:0,http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w1816794543_b1556000_slesp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTNi
+#EXTINF:0,http://184.164.158.202:1936/48/smil:48.smil/chunklist_w840077962_b1564000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Celestial
+#EXTINF:0,http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDM Internacional
+#EXTINF:0,http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comunion TV
+#EXTINF:0,http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red Advenir
+#EXTINF:0,http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1788782041
+#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports
+#EXTINF:0,https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:0 tvg-id="BFMSport.fr" group-title="Channels",BFM Sport
+#EXTINF:0,http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pinguino TV
+#EXTINF:0,http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid TV
+#EXTINF:0,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bayern Munchen TV
+#EXTINF:0,http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Channels",ESPN
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="Channels",ESPN 2
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="Channels",Fox Sports Racing
+#EXTINF:0,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Flow Sports
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bolivia Deportes
+#EXTINF:0,http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe Deportes
+#EXTINF:0,http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 tvg-id="NBA.ar" group-title="Channels",NBA TV
+#EXTINF:0,http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",GOLF CHANNEL
+#EXTINF:0,http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB Network
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sports
+#EXTINF:0,http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",Abu Dhabi Sports 2
+#EXTINF:0,http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KTV Sport Kuwait
+#EXTINF:0,https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stadium Sports Network
+#EXTINF:0,https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTSMAX
+#EXTINF:0,http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:0 tvg-id="Esport3.es" group-title="Channels",Esport3
+#EXTINF:0,https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0 tvg-id="SetantaIrelandSport.uk" group-title="Channels",Setanta Sports
+#EXTINF:0,http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="Channels",Setanta Sports +
+#EXTINF:0,http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTM3U
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Yearmix2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Yearmix2014
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",The 80s Videomix Volume 1
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",The 90s EurodanceVideomix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",EL MATADOR
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",ELLA EN MI CUERPO Y EL EN EL MIO
+https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",RADIO NUEVA VIDA
+http://radio.ministeriotv.com:8042/stream.mp3
+#EXTINF:0,#EXTINF:0 tvg-id="avi" group-title="Videos",River TV
+https://kalhlspd-a.akamaihd.net/fhls/p/1164832/sp/116483200/serveFlavor/entryId/0_qc5xtm8o/v/2/ev/6/flavorId/0_8s0un0lm/name/a.mp4/index.m3u8
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO:WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO:WARNER CHANNEL
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO:UNICABLE" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO:UNICABLE
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO:CANAL FOX" tvg-logo="https://img2.freepng.es/20181122/pye/kisspng-logo-fox-channel-fox-networks-group-latin-america-5bf69ff4ca5908.8354122815428894608288.jpg" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO:CANAL FOX
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: A&E ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: A&E ESP
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: UNIVERSAL CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: UNIVERSAL CHANNEL
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: SONY ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: SONY ESP
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: FXM ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FXM ESP
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: AXN
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO : Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="INGLISH",ENTRETENIMIENTO : Food Network
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETENIMIENTO : DW ESPAÑOL" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO : DW ESPAÑOL
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRETANIMIENTO : STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="ENTRETENIMIENTO",ENTRETANIMIENTO : STUDIO UNIVERSAL
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENTRATENIMIENTO : FOX LIFE ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="ENTRETENIMIENTO",ENTRATENIMIENTO : FOX LIFE ESP
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/270.ts
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CNN International (Opt-1) (US)" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INGLISH",CNN International (Opt-1) (US)
+http://plexonline.club:25461/live/listam3u32/sinxxx/92.ts
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA:SPACE" tvg-logo="https://images.inwx.com/flags/space.png" group-title="CINEMA",CINEMA:SPACE
+#EXTINF:0,http://plexonline.club:25461/live/listam3u32/sinxxx/247.ts
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: PARAMOUNT NETWORK  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="CINEMA",CINEMA: PARAMOUNT NETWORK  ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/269.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINEMA",CINEMA: DE PELICULA
+http://plexonline.club:25461/live/listam3u32/sinxxx/264.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: CINECANAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="CINEMA",CINEMA: CINECANAL
+http://plexonline.club:25461/live/listam3u32/sinxxx/266.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA: AMC ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINEMA",CINEMA: AMC ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/242.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: HBO LATINOAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: HBO LATINOAMERICA
+http://plexonline.club:25461/live/listam3u32/sinxxx/246.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: HBO2 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: HBO2 ESP
+http://plexonline.club:25461/live/listam3u32/sinxxx/240.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM:HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM:HBO SIGNATURE
+http://plexonline.club:25461/live/listam3u32/sinxxx/244.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: HBO +" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/HBO_PLUS__Black-lr.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: HBO +
+http://plexonline.club:25461/live/listam3u32/sinxxx/245.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM:FOX SERIES PREMIUM" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM:FOX SERIES PREMIUM
+http://plexonline.club:25461/live/listam3u32/sinxxx/233.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX MOVIES
+http://plexonline.club:25461/live/listam3u32/sinxxx/234.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX FAMILY" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_FAMILY.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX FAMILY
+http://plexonline.club:25461/live/listam3u32/sinxxx/235.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-comedy-hd_m.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX COMEDY
+http://plexonline.club:25461/live/listam3u32/sinxxx/236.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX CLASSIC" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics-hd_m.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX CLASSIC
+http://plexonline.club:25461/live/listam3u32/sinxxx/237.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM: FOX ACTION" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM: FOX ACTION
+http://plexonline.club:25461/live/listam3u32/sinxxx/239.ts
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM : MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM : MAX PRIME
+http://plexonline.club:25461/live/listam3u32/sinxxx/279.ts
+#EXTINF:0,#EXTM3U
+#EXTINF:1 Azteca Uno
+#EXTINF:0,http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:4 UNICABLE
+#EXTINF:0,http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/256.ts
+#EXTINF:5 DISTRITO COMEDIA
+#EXTINF:0,http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/335.ts
+#EXTINF:-1 tvg-id="" tvg-logo="", HBO PLUS
+#EXTINF:0,http://mylatinotv.com:25461/live/everardo/everardo/19823.m3u8
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-id="" tvg-logo="", CANAL 5
+http://mylatinotv.com:25461/live/everardo/everardo/71713.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-id="" tvg-logo="", AZTECA 7
+http://mylatinotv.com:25461/live/everardo/everardo/71700.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-id="" tvg-logo="", TUDN
+http://mylatinotv.com:25461/live/everardo/everardo/19917.m3u8
+#EXTINF:0,#EXTINF:-1,TELEMAX SONORA
+https://5d0aa1440961a.streamlock.net/telemax/telemax/chunklist_w1191742650.m3u8
+#EXTINF:0,#EXTINF:-1,FORO TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="MEXICO", Az Corazon
+http://23.237.122.82:8080/Azcorazon/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=112
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title="MEXICO", Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="Latinos", Unicable
+http://23.237.122.82:8080/Unicable/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=107
+#EXTINF:0,#EXTM3U 
+#EXTINF:0, TNT
+#EXTINF:0,http://23.237.122.82:8080/TNTHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=156
+#EXTINF:0, TNT Series
+#EXTINF:0,http://23.237.122.82:8080/TNTSeries/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=116
+#EXTINF:0, Universal Channel
+#EXTINF:0,http://23.237.122.82:8080/UniversalChannel/index.m3u8
+#EXTINF:0, DirecTv Cinema
+#EXTINF:0,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0, Fox
+#EXTINF:0,http://23.237.122.82:8080/FoxChannel/index.m3u8
+#EXTINF:0, FOX Life
+#EXTINF:0,http://23.237.122.82:8080/FoxLife/index.m3u8
+#EXTINF:0, Fox Premium Series
+#EXTINF:0,http://23.237.122.82:8080/FoxSeriesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=149
+#EXTINF:0, Fox Cinema
+#EXTINF:0,http://23.237.122.82:8080/FoxCinema/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=152
+#EXTINF:0, Fox Classics
+#EXTINF:0,http://23.237.122.82:8080/FoxClassics/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=153
+#EXTINF:0, Fox Movies
+#EXTINF:0,http://23.237.122.82:8080/FoxMoviesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=151
+#EXTINF:0, History
+#EXTINF:0,http://23.237.122.82:8080/History/index.m3u8
+#EXTINF:0, NatGeo
+#EXTINF:0,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0, NatGeo Wild
+#EXTINF:0,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0, NatGeo Mundo
+#EXTINF:0,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+ #EXTM3U 
+#EXTINF:0,#EXTINF:0, TNT
+http://23.237.122.82:8080/TNTHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=156
+#EXTINF:0,#EXTINF:0, TNT Series
+http://23.237.122.82:8080/TNTSeries/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=116
+#EXTINF:0,#EXTINF:0, Universal Channel
+http://23.237.122.82:8080/UniversalChannel/index.m3u8
+#EXTINF:0,#EXTINF:0, DirecTv Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0,#EXTINF:0, Fox
+http://23.237.122.82:8080/FoxChannel/index.m3u8
+#EXTINF:0,#EXTINF:0, FOX Life
+http://23.237.122.82:8080/FoxLife/index.m3u8
+#EXTINF:0,#EXTINF:0, Fox Premium Series
+http://23.237.122.82:8080/FoxSeriesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=149
+#EXTINF:0,#EXTINF:0, Fox Cinema
+http://23.237.122.82:8080/FoxCinema/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=152
+#EXTINF:0,#EXTINF:0, Fox Classics
+http://23.237.122.82:8080/FoxClassics/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=153
+#EXTINF:0,#EXTINF:0, Fox Movies
+http://23.237.122.82:8080/FoxMoviesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=151
+#EXTINF:0,#EXTINF:0, History
+http://23.237.122.82:8080/History/index.m3u8
+#EXTINF:0,#EXTINF:0, NatGeo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0,#EXTINF:0, NatGeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,#EXTINF:0, NatGeo Mundo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0,#EXTM3U 
+#EXTINF:0, TNT
+#EXTINF:0,http://23.237.122.82:8080/TNTHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=156
+#EXTINF:0, TNT Series
+#EXTINF:0,http://23.237.122.82:8080/TNTSeries/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=116
+#EXTINF:0, Universal Channel
+#EXTINF:0,http://23.237.122.82:8080/UniversalChannel/index.m3u8
+#EXTINF:0, DirecTv Cinema
+#EXTINF:0,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0, Fox
+#EXTINF:0,http://23.237.122.82:8080/FoxChannel/index.m3u8
+#EXTINF:0, FOX Life
+#EXTINF:0,http://23.237.122.82:8080/FoxLife/index.m3u8
+#EXTINF:0, Fox Premium Series
+#EXTINF:0,http://23.237.122.82:8080/FoxSeriesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=149
+#EXTINF:0, Fox Cinema
+#EXTINF:0,http://23.237.122.82:8080/FoxCinema/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=152
+#EXTINF:0, Fox Classics
+#EXTINF:0,http://23.237.122.82:8080/FoxClassics/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=153
+#EXTINF:0, Fox Movies
+#EXTINF:0,http://23.237.122.82:8080/FoxMoviesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=151
+#EXTINF:0, History
+#EXTINF:0,http://23.237.122.82:8080/History/index.m3u8
+#EXTINF:0, NatGeo
+#EXTINF:0,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0, NatGeo Wild
+#EXTINF:0,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0, NatGeo Mundo
+#EXTINF:0,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTM3U 
+#EXTINF:0,#EXTINF:0, TNT
+http://23.237.122.82:8080/TNTHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=156
+#EXTINF:0,#EXTINF:0, TNT Series
+http://23.237.122.82:8080/TNTSeries/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=116
+#EXTINF:0,#EXTINF:0, Universal Channel
+http://23.237.122.82:8080/UniversalChannel/index.m3u8
+#EXTINF:0,#EXTINF:0, DirecTv Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0,#EXTINF:0, Fox
+http://23.237.122.82:8080/FoxChannel/index.m3u8
+#EXTINF:0,#EXTINF:0, FOX Life
+http://23.237.122.82:8080/FoxLife/index.m3u8
+#EXTINF:0,#EXTINF:0, Fox Premium Series
+http://23.237.122.82:8080/FoxSeriesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=149
+#EXTINF:0,#EXTINF:0, Fox Cinema
+http://23.237.122.82:8080/FoxCinema/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=152
+#EXTINF:0,#EXTINF:0, Fox Classics
+http://23.237.122.82:8080/FoxClassics/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=153
+#EXTINF:0,#EXTINF:0, Fox Movies
+http://23.237.122.82:8080/FoxMoviesHD/index.m3u8?username=test04&amp;password=1122&amp;token=8a1a7c905127fbc53ed103cbe6c1df8e&amp;ch_id=151
+#EXTINF:0,#EXTINF:0, History
+http://23.237.122.82:8080/History/index.m3u8
+#EXTINF:0,#EXTINF:0, NatGeo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0,#EXTINF:0, NatGeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,#EXTINF:0, NatGeo Mundo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0,#EXTM3U
+#EXTINF:-1,iptvtools_3
+#EXTINF:0,https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
+#EXTINF:-1,iptvtools_4
+#EXTINF:0,https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:-1,iptvtools_5
+#EXTINF:0,https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
+#EXTINF:-1,iptvtools_6
+#EXTINF:0,https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
+#EXTINF:-1,iptvtools_7
+#EXTINF:0,https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_8
+#EXTINF:0,https://live.youlive-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_9
+#EXTINF:0,https://live.youlive-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_10
+#EXTINF:0,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,iptvtools_11
+#EXTINF:0,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,iptvtools_12
+#EXTINF:0,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1,iptvtools_13
+#EXTINF:0,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1,iptvtools_14
+#EXTINF:0,http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1,iptvtools_15
+#EXTINF:0,http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1,iptvtools_17
+#EXTINF:0,https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w2102582891_b6628000.m3u8
+#EXTINF:-1,iptvtools_18
+#EXTINF:0,https://live.youlive-cdn.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_20
+#EXTINF:0,https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,iptvtools_24
+#EXTINF:0,http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+#EXTINF:-1,iptvtools_25
+#EXTINF:0,https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
+#EXTINF:-1,iptvtools_26
+#EXTINF:0,http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1,iptvtools_27
+#EXTINF:0,http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,iptvtools_33
+#EXTINF:0,https://live.youlive-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1,iptvtools_34
+#EXTINF:0,https://live.youlive-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1,iptvtools_35
+#EXTINF:0,https://live.youlive-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_36
+#EXTINF:0,https://live.youlive-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_37
+#EXTINF:0,https://live.youlive-cdn.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_38
+#EXTINF:0,https://live.youlive-cdn.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,iptvtools_40
+#EXTINF:0,https://live.youlive-cdn.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,iptvtools_48
+#EXTINF:0,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,iptvtools_49
+#EXTINF:0,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,iptvtools_50
+#EXTINF:0,https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_51
+#EXTINF:0,https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_52
+#EXTINF:0,https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1,iptvtools_53
+#EXTINF:0,https://live.youlive-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_54
+#EXTINF:0,http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_56
+#EXTINF:0,https://live.youlive-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_57
+#EXTINF:0,https://live.youlive-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_58
+#EXTINF:0,https://live.youlive-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_59
+#EXTINF:0,https://live.youlive-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_68
+#EXTINF:0,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1,iptvtools_69
+#EXTINF:0,http://182.19.212.148:8089/1.ts
+#EXTINF:-1,iptvtools_70
+#EXTINF:0,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1,iptvtools_71
+#EXTINF:0,https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,iptvtools_72
+#EXTINF:0,https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,iptvtools_73
+#EXTINF:0,https://live.youlive-cdn.com/02_TennisHD_720p/chunklist.m3u8
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,iptvtools_3
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_11
+http://198.1.117.5:1935/live/livestream/.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_17
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_21
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:0,#EXTINF:-1,iptvtools_24
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:0,#EXTINF:-1,iptvtools_27
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_29
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_30
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:0,#EXTINF:-1,iptvtools_43
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_45
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_48
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_49
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_50
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_54
+http://200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_55
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_57
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?teleregiogratis?chile.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_63
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_73
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_76
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_79
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_80
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_82
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+#EXTINF:0,#EXTINF:-1,iptvtools_83
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_86
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_87
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_88
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_91
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_93
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_100
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_103
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_110
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_111
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_113
+http://bit.ly/2CLgJ6u
+#EXTINF:0,#EXTINF:-1,iptvtools_116
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_120
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_121
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_122
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_125
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_127
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_129
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_132
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_133
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,#EXTINF:-1,iptvtools_228
+https://bit.ly/2GajoTS
+#EXTINF:0,#EXTINF:-1,iptvtools_230
+https://bit.ly/2wBzaYz
+#EXTINF:0,#EXTINF:-1,iptvtools_232
+https://bit.ly/2wBG4x8
+#EXTINF:0,#EXTINF:-1,iptvtools_244
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_245
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_246
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_247
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0,#EXTINF:-1,iptvtools_249
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_250
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_251
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_252
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_254
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0,#EXTINF:-1,iptvtools_255
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
